@@ -1,0 +1,589 @@
+/* order page */
+body{
+    background-color: #FBEDE2;
+}
+
+.step1{
+    text-indent: -9999999px;
+    background: url('step1.png');
+    width: 1750px;
+    height: 600px;
+    position:absolute;
+    top: -470px;
+    left: -270px;
+
+}
+
+.card-img-top{
+    border-radius: 40px;
+    padding: 20px;
+}
+.choc1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:180px;
+}
+
+.choc1:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body{
+    padding:30px;
+    margin-top: -35px;
+}
+
+
+p,h5{
+    font-family: "Poppins", sans-serif;
+    color:  #000000;
+}
+
+/* CARD2 */
+
+.straw1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(143, 18, 80, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:605px;
+}
+
+.straw1:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body{
+    padding: 30px;
+    margin-top: -35px;
+}
+
+
+p,h5{
+    font-family: "Poppins", sans-serif;
+    color: #FC5A8D;
+}
+
+/* CARD3 */
+
+.match1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    right:605px;
+}
+
+.match1:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body{
+    padding: 30px;
+    margin-top: -35px;
+}
+
+
+p,h5{
+    font-family: "Poppins", sans-serif;
+    color: #411900;
+    text-align: center;
+}
+
+/* CARD4 */
+
+.van1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    right:180px;
+}
+
+.van1:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body{
+    padding: 30px;
+    margin-top: -35px;
+}
+
+
+p,h5{
+    font-family: "Poppins", sans-serif;
+    color: #411900;
+}
+
+.orderhomebtn {
+
+    font-family: "Oooh Baby", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    background: #F67599;
+    width: 150px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:  white;
+    border-radius: 70px;
+    cursor: pointer;
+    box-shadow: 0 0 10px #F67599;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    position: relative;
+    left: 30px;
+    top: 840px;
+
+}
+
+.orderhomebtn:hover, .orderhomebtn:focus, .orderhomebtn:active{
+
+    box-shadow: 0 0 20px rgb(194, 75, 121);
+    -webkit-transform: scale(1.1);
+    transform: scale (1.1);
+}
+
+.orderpage2btn{
+    font-family: "Oooh Baby", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    background: #F67599;
+    width: 160px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:  white;
+    border-radius: 70px;
+    cursor: pointer;
+    box-shadow: 0 0 10px #F67599;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+    -webkit-transition-property: box-shadow, transform;
+    transition-property: box-shadow, transform;
+    position: relative;
+    left: 1630px;
+    top: 840px;
+
+}
+
+.orderpage2btn:hover, .orderpage2btn:focus, .orderpage2btn:active{
+
+    box-shadow: 0 0 20px rgb(194, 75, 121);
+    -webkit-transform: scale(1.1);
+    transform: scale (1.1);
+}
+
+/*end of order page1 */
+
+/* start of order page for chocolate */
+
+.orderp2homebtn{
+    font-family: "Oooh Baby", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    background: #F67599;
+    width: 50px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:  white;
+    border-radius: 70px;
+    cursor: pointer;
+    position: relative;
+    left: 1710px;
+    top: 840px;
+
+}
+
+.orderp2homebtn:hover, .orderp2homebtn:focus, .orderp2homebtn:active{
+
+    box-shadow: 0 0 20px rgb(194, 75, 121);
+    -webkit-transform: scale(1.1);
+    transform: scale (1.1);
+    color: #7E38B7;
+}
+
+.orderp2backbtn{
+    font-family: "Oooh Baby", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    background: #F67599;
+    width: 50px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:  white;
+    border-radius: 70px;
+    cursor: pointer;
+    position: relative;
+    left: -80px;
+    top: 840px;
+
+}
+
+.orderp2backbtn:hover, .orderp2backbtn:focus, .orderp2backbtn:active{
+
+    box-shadow: 0 0 20px rgb(194, 75, 121);
+    -webkit-transform: scale(1.1);
+    transform: scale (1.1);
+    color: #7E38B7;
+}
+
+.step2{
+    text-indent: -9999999px;
+    background: url('step2.png');
+    width: 1750px;
+    height: 600px;
+    position:absolute;
+    top: -470px;
+    left: -230px;
+}
+
+.top1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.top1:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.top2{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:380px;
+}
+
+.top2:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body2{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.top3{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:380px;
+}
+
+.top3:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body3{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.top4{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:380px;
+}
+
+.top4:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-body4{
+    padding:30px;
+    margin-top: -35px;
+}
+
+
+.orderpage{
+    font-family: "Oooh Baby", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    background: #F67599;
+    width: 50px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color:  white;
+    border-radius: 70px;
+    cursor: pointer;
+    position: relative;
+    left: 1590  px;
+    top: 840px;
+
+}
+
+.orderpage:hover, .orderpage:focus, .orderpage:active{
+
+    box-shadow: 0 0 20px rgb(194, 75, 121);
+    -webkit-transform: scale(1.1);
+    transform: scale (1.1);
+    color: #7E38B7;
+}
+
+
+/* start of order page for strawberry */
+
+.tops1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.tops1:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodys1{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.tops2{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.tops2:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodys2{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.tops3{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.tops3:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodys3{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.tops4{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.tops4:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodys4{
+    padding:30px;
+    margin-top: -35px;
+}
+
+/* start of order page for matcha */
+
+.topm1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.topm1:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodym1{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topm2{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.topm2:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodym2{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topm3{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.topm3:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodym3{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topm4{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:0px;
+    left:400px;
+}
+
+.topm4:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodym4{
+    padding:30px;
+    margin-top: -35px;
+}
+
+/* start of order page for vanilla */
+
+.topv1{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.topv1:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodyv1{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topv2{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.topv2:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodyv2{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topv3{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.topv3:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodyv3{
+    padding:30px;
+    margin-top: -35px;
+}
+
+.topv4{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    transition: transform 0.7s, box-shadow 0.7s;
+    position: absolute;
+    top:180px;
+    left:230px;
+}
+
+.topv4:hover {
+    transform: translate(-15px);
+    box-shadow: 0 8px 16px rgba(77, 36, 3, 0.568);
+}
+.card-bodyv4{
+    padding:30px;
+    margin-top: -35px;
+}
