@@ -354,6 +354,9 @@ p,h5{
 }
 
 
+
+
+
 /* start of order page for strawberry */
 
 .tops1{
@@ -587,3 +590,78 @@ p,h5{
     padding:30px;
     margin-top: -35px;
 }
+
+@media (max-width: 414px)
+{
+
+    .topv3
+    {
+        top: 730px;
+        left: -400px;
+    }
+
+    .topm3
+    {
+        top: 730px;
+        left: -400px;
+    }
+
+    .tops3
+    {
+        top: 730px;
+        left: -400px;
+    }
+
+    .orderp2homebtn
+    {
+        left: 700px;
+        top: 830px;
+    }
+
+    .orderp2backbtn
+    {
+        left: 190px;
+        top: 830px;
+    }
+
+   .top3
+   {
+    top: 730px;
+    left: -380px;
+   }
+
+   .top4
+   {
+    top: 0px;
+   }
+
+    .van1
+    {
+        top: 850px;
+        left: 600px;
+    }
+    
+    .match1
+    {
+        left: 170px;
+        top: 850px;
+    }
+
+    .orderhomebtn
+    {
+        top: 765px;
+        left: 250px;
+    }
+
+    .step1
+    {
+        width: 390%;
+    }
+
+    .orderpage2btn
+    {
+        top:765px;
+        left: 560px;
+    }
+}
+

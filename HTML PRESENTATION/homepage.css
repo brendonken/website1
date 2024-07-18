@@ -4,7 +4,7 @@ body {
 
 }
 
-
+@media (max-width: 2000px) {
 
 .logo {
     text-indent: -9999999px;
@@ -18,6 +18,7 @@ body {
      
  }
  
+
  .homelogo{
     text-indent: -99999px;
     background: url('homelogo.png');
@@ -183,8 +184,293 @@ body {
     color: #7E38B7;
 }
 
+}
 
+@media (max-width: 360px) {
+    .homebtn
+    {
+        font-size: 20px;
+        left: 30px;
+        
+    }
 
+    .contactbtn
+    {
+        font-size: 20px;
+        left: 120px;
+        
+    }
+
+    .homelogo
+    {
+        left: -300px;   
+    }
+
+    .aboutbtn
+    {
+        font-size: 20px;
+        left: 320px;
+        width: 20%;
+        
+    }
+
+    .locationbtn 
+    {
+        font-size: 20px;
+        left: 405px;
+        
+    }
+
+    .logo 
+    {
+        display: none;
+    }
+
+    .hometext 
+    {
+        font-size: 110px;
+        left: 20px;
+        top:150px;
+    }
+    
+    .hometext1 
+    {
+        left:20px;
+    }
+
+    .orderbtn 
+    {
+        left: 5px;
+    }
+}
+    
+@media (max-width: 375px) {
+    .homebtn
+    {
+        font-size: 20px;
+        left: 30px;
+        
+    }
+
+    .contactbtn
+    {
+        font-size: 20px;
+        left: 120px;
+        
+    }
+
+    .homelogo
+    {
+        left: -300px;   
+    }
+
+    .aboutbtn
+    {
+        font-size: 20px;
+        left: 320px;
+        
+    }
+
+    .locationbtn 
+    {
+        font-size: 20px;
+        left: 405px;
+        
+    }
+
+    .logo 
+    {
+        display: none;
+    }
+
+    .hometext 
+    {
+        font-size: 110px;
+        left: 20px;
+        top:150px;
+    }
+    
+    .hometext1 
+    {
+        left:20px;
+    }
+
+    .orderbtn 
+    {
+        left: 5px;
+    }
+}
+    
+@media (max-width: 320px) {
+    .homebtn
+    {
+        font-size: 20px;
+        left: 30px;
+        
+    }
+
+    .contactbtn
+    {
+        font-size: 20px;
+        left: 120px;
+        
+    }
+
+    .homelogo
+    {
+        left: -300px;   
+    }
+
+    .aboutbtn
+    {
+        font-size: 20px;
+        left: 320px;
+        
+    }
+
+    .locationbtn 
+    {
+        font-size: 20px;
+        left: 405px;
+        
+    }
+
+    .logo 
+    {
+        display: none;
+    }
+
+    .hometext 
+    {
+        font-size: 110px;
+        left: 20px;
+        top:150px;
+    }
+    
+    .hometext1 
+    {
+        left:20px;
+    }
+
+    .orderbtn 
+    {
+        left: 5px;
+    }
+}
+    
+@media (max-width: 390px) {
+    .homebtn
+    {
+        font-size: 20px;
+        left: 30px;
+        
+    }
+
+    .contactbtn
+    {
+        font-size: 20px;
+        left: 120px;
+        
+    }
+
+    .homelogo
+    {
+        left: -300px;   
+    }
+
+    .aboutbtn
+    {
+        font-size: 20px;
+        left: 320px;
+        
+    }
+
+    .locationbtn 
+    {
+        font-size: 20px;
+        left: 405px;
+        
+    }
+
+    .logo 
+    {
+        display: none;
+    }
+
+    .hometext 
+    {
+        font-size: 110px;
+        left: 20px;
+        top:150px;
+    }
+    
+    .hometext1 
+    {
+        left:20px;
+    }
+
+    .orderbtn 
+    {
+        left: 5px;
+    }
+}
+    
+@media (max-width: 412px) {
+    .homebtn
+    {
+        font-size: 20px;
+        left: 30px;
+        
+    }
+
+    .contactbtn
+    {
+        font-size: 20px;
+        left: 120px;
+        
+    }
+
+    .homelogo
+    {
+        left: -300px;   
+    }
+
+    .aboutbtn
+    {
+        font-size: 20px;
+        left: 320px;
+        
+    }
+
+    .locationbtn 
+    {
+        font-size: 20px;
+        left: 405px;
+        
+    }
+
+    .logo 
+    {
+        display: none;
+    }
+
+    .hometext 
+    {
+        font-size: 110px;
+        left: 20px;
+        top:150px;
+    }
+    
+    .hometext1 
+    {
+        left:20px;
+    }
+
+    .orderbtn 
+    {
+        left: 5px;
+    }
+}
 /*end of homepage*/
 
 
@@ -218,7 +504,7 @@ body {
     font-weight: 400;
     font-style: normal;
     font-size: 45px;
-    text-align: justify;
+    text-align: left;
     color:  #BD90DB;
     position:absolute;
     top:245px;
@@ -458,7 +744,225 @@ body {
     left: -180px;
 }
 
+@media (max-width: 360px) {
+    .aboutusdonut1,
+    .aboutusdonut2,
+    .aboutusdonut3,
+    .greenstar,
+    .yellowstar,
+    .pinkstar,
+    .cloud1,
+    .cloud2,
+    .cloud3,
+    .cloud4,
+    .cloud5,
+    .aboutusdrip5,
+    .aboutusdrip4,
+    .translogo2
+    {
+        display: none;
+    }
+    
+    .aboutustext1
+    {
+        width:100%;
+    }
 
+    .aboutustext2
+    {
+        br {
+            display: none;
+        }
+    width: 200%;
+}
+
+    .aboutustext3
+    {
+        width: 200%;
+        top: 740px;
+    }
+
+    .aboutusdrip3
+    {
+        width: 70%;
+    }
+}
+
+@media (max-width: 390px) {
+    .aboutusdonut1,
+    .aboutusdonut2,
+    .aboutusdonut3,
+    .greenstar,
+    .yellowstar,
+    .pinkstar,
+    .cloud1,
+    .cloud2,
+    .cloud3,
+    .cloud4,
+    .cloud5,
+    .aboutusdrip5,
+    .aboutusdrip4,
+    .translogo2
+    {
+        display: none;
+    }
+    
+    .aboutustext1
+    {
+        width:100%;
+    }
+
+    .aboutustext2
+    {
+        br {
+            display: none;
+        }
+    width: 200%;
+}
+
+    .aboutustext3
+    {
+        width: 200%;
+        top: 740px;
+    }
+
+    .aboutusdrip3
+    {
+        width: 70%;
+    }
+}
+
+@media (max-width: 375px) {
+    .aboutusdonut1,
+    .aboutusdonut2,
+    .aboutusdonut3,
+    .greenstar,
+    .yellowstar,
+    .pinkstar,
+    .cloud1,
+    .cloud2,
+    .cloud3,
+    .cloud4,
+    .cloud5,
+    .aboutusdrip5,
+    .aboutusdrip4,
+    .translogo2
+    {
+        display: none;
+    }
+    
+    .aboutustext1
+    {
+        width:100%;
+    }
+
+    .aboutustext2
+    {
+        br {
+            display: none;
+        }
+    width: 200%;
+}
+
+    .aboutustext3
+    {
+        width: 200%;
+        top: 740px;
+    }
+
+    .aboutusdrip3
+    {
+        width: 70%;
+    }
+}
+
+@media (max-width: 320px) {
+    .aboutusdonut1,
+    .aboutusdonut2,
+    .aboutusdonut3,
+    .greenstar,
+    .yellowstar,
+    .pinkstar,
+    .cloud1,
+    .cloud2,
+    .cloud3,
+    .cloud4,
+    .cloud5,
+    .aboutusdrip5,
+    .aboutusdrip4,
+    .translogo2
+    {
+        display: none;
+    }
+    
+    .aboutustext1
+    {
+        width:100%;
+    }
+
+    .aboutustext2
+    {
+        br {
+            display: none;
+        }
+    width: 200%;
+}
+
+    .aboutustext3
+    {
+        width: 200%;
+        top: 740px;
+    }
+
+    .aboutusdrip3
+    {
+        width: 70%;
+    }
+}
+
+@media (max-width: 412px) {
+    .aboutusdonut1,
+    .aboutusdonut2,
+    .aboutusdonut3,
+    .greenstar,
+    .yellowstar,
+    .pinkstar,
+    .cloud1,
+    .cloud2,
+    .cloud3,
+    .cloud4,
+    .cloud5,
+    .aboutusdrip5,
+    .aboutusdrip4,
+    .translogo2
+    {
+        display: none;
+    }
+    
+    .aboutustext1
+    {
+        width:100%;
+    }
+
+    .aboutustext2
+    {
+        br {
+            display: none;
+        }
+    width: 200%;
+}
+
+    .aboutustext3
+    {
+        width: 200%;
+        top: 740px;
+    }
+
+    .aboutusdrip3
+    {
+        width: 70%;
+    }
+}
 /* end of about us page */
 
 /* contact us page */
@@ -618,6 +1122,216 @@ body {
     top: -10px;
     right: 185px;
 }
+
+@media (max-width: 360px){
+    .conusdrip5,
+    .conusdrip4,
+    .donut1,
+    .translogo1
+    {
+        display: none;
+    }
+
+    .contactusbtn
+    {
+        left: 250px;
+    }
+
+    .emailadd
+    {
+        left: 250px;
+    }
+
+    .gmail
+    {
+        left: -45px;
+    }
+
+    .mobnum
+    {
+        left: 250px;
+    }
+
+    .num
+    {
+        left: -55px;
+    }
+}
+
+    @media (max-width: 360px){
+    .conusdrip5,
+    .conusdrip4,
+    .donut1,
+    .translogo1
+    {
+        display: none;
+    }
+
+    .contactusbtn
+    {
+        left: 250px;
+    }
+
+    .emailadd
+    {
+        left: 250px;
+    }
+
+    .gmail
+    {
+        left: -45px;
+    }
+
+    .mobnum
+    {
+        left: 250px;
+    }
+
+    .num
+    {
+        left: -55px;
+    }
+}
+
+    @media (max-width: 390px){
+        .conusdrip5,
+        .conusdrip4,
+        .donut1,
+        .translogo1
+        {
+            display: none;
+        }
+    
+        .contactusbtn
+        {
+            left: 250px;
+        }
+    
+        .emailadd
+        {
+            left: 250px;
+        }
+    
+        .gmail
+        {
+            left: -45px;
+        }
+    
+        .mobnum
+        {
+            left: 250px;
+        }
+    
+        .num
+        {
+            left: -55px;
+        }
+    }
+
+        @media (max-width: 375px){
+            .conusdrip5,
+            .conusdrip4,
+            .donut1,
+            .translogo1
+            {
+                display: none;
+            }
+        
+            .contactusbtn
+            {
+                left: 250px;
+            }
+        
+            .emailadd
+            {
+                left: 250px;
+            }
+        
+            .gmail
+            {
+                left: -45px;
+            }
+        
+            .mobnum
+            {
+                left: 250px;
+            }
+        
+            .num
+            {
+                left: -55px;
+            }
+        }
+
+            @media (max-width: 320px){
+                .conusdrip5,
+                .conusdrip4,
+                .donut1,
+                .translogo1
+                {
+                    display: none;
+                }
+            
+                .contactusbtn
+                {
+                    left: 250px;
+                }
+            
+                .emailadd
+                {
+                    left: 250px;
+                }
+            
+                .gmail
+                {
+                    left: -45px;
+                }
+            
+                .mobnum
+                {
+                    left: 250px;
+                }
+            
+                .num
+                {
+                    left: -55px;
+                }
+}
+
+@media (max-width: 412px){
+    .conusdrip5,
+    .conusdrip4,
+    .donut1,
+    .translogo1
+    {
+        display: none;
+    }
+
+    .contactusbtn
+    {
+        left: 250px;
+    }
+
+    .emailadd
+    {
+        left: 250px;
+    }
+
+    .gmail
+    {
+        left: -45px;
+    }
+
+    .mobnum
+    {
+        left: 250px;
+    }
+
+    .num
+    {
+        left: -55px;
+    }
+}
 /* end of contact us page */
 
 /* start of location page */
@@ -672,32 +1386,140 @@ body {
     left:270px;
 }
 
-.map-container {
-    width: 80%;
-    max-width: 800px;
-    height: 700px;
-    position: absolute;
-    top: 140px;
-    right: 70px;
-    overflow: hidden;
-    border: 2px solid #ccc;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
 
-.map-container iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-@media (max-width: 768px) {
-    .map-container {
-        width: 100%;
-        height: 300px;
+@media (max-width: 360px)
+{
+    iframe
+    {
+        width: 500px;
+        position: relative;
+        top: 690px;
+        left: 100px;
     }
+
+    .location
+    {
+        font-size: 80px;
+        width: 170%;
+        top: 120px;
+        left: 100px;
+    }
+
+    .descrip
+    {
+        width: 200%;
+        left:40px;
+    }
+
+    
+}
+ 
+@media (max-width: 320px)
+{
+    iframe
+    {
+        width: 500px;
+        position: relative;
+        top: 690px;
+        left: 100px;
+    }
+
+    .location
+    {
+        font-size: 80px;
+        width: 170%;
+        top: 120px;
+        left: 100px;
+    }
+
+    .descrip
+    {
+        width: 200%;
+        left:40px;
+    }
+
+    
 }
 
 
+@media (max-width: 375px)
+{
+    iframe
+    {
+        width: 500px;
+        position: relative;
+        top: 690px;
+        left: 100px;
+    }
+
+    .location
+    {
+        font-size: 80px;
+        width: 170%;
+        top: 120px;
+        left: 100px;
+    }
+
+    .descrip
+    {
+        width: 200%;
+        left:40px;
+    }
+
+    
+}
+
+@media (max-width: 390px)
+{
+    iframe
+    {
+        width: 500px;
+        position: relative;
+        top: 690px;
+        left: 100px;
+    }
+
+    .location
+    {
+        font-size: 80px;
+        width: 170%;
+        top: 120px;
+        left: 100px;
+    }
+
+    .descrip
+    {
+        width: 200%;
+        left:40px;
+    }
+
+    
+}
+
+
+@media (max-width: 412px)
+{
+    iframe
+    {
+        width: 500px;
+        position: relative;
+        top: 690px;
+        left: 100px;
+    }
+
+    .location
+    {
+        font-size: 80px;
+        width: 170%;
+        top: 120px;
+        left: 100px;
+    }
+
+    .descrip
+    {
+        width: 200%;
+        left:40px;
+    }
+
+    
+}
